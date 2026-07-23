@@ -32,6 +32,8 @@ mark3 = float(input("Enter mark 3: "))
 
 average = (mark1 + mark2 + mark3) / 3
 
+
+-
 print("Average =", average)
 
 
