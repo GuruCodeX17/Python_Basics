@@ -1,0 +1,6 @@
+Name: Guru
+Department: CSE
+CGPA: 8.15
+Skill: Python
+Skill: Machine Learning
+Skill: Data Science
